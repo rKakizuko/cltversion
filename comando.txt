@@ -11,3 +11,16 @@ Após isso, fui fazendo os commits e pushs com as alterações desejadas, segue 
 -git add .
 -git commit -m "mensagem"
 -git push origin main
+
+Após isso, criei uma branch e upei uma versão alternativa com diferentes cores para esta branch "sub1", segue os comandos:
+-git branch sub1
+-git checkout sub1
+-git add .
+-git commit -m "alterações de cores"
+-git push origin sub1
+
+E por fim, editei este documento e farei o uso dos seguintes comandos:
+-git checkout main
+-git add .
+-git commit -m "atualização de documento"
+-git push origin main

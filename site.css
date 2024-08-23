@@ -2,13 +2,13 @@ body {
     font-family: "Karla", sans-serif;
     line-height: 1.5;
 
-    background-color: #D7C3F1;
+    background-color: #cde4ff;
 }
 
 .cabeca {
     font-family: "Nobile", sans-serif;
-    background: #81c794;
-    color: white;
+    background: #d0f5da;
+    color: rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
     border: 5px solid #41B3A2;
@@ -26,11 +26,11 @@ div {
     border-radius: 8px;
     box-shadow: 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
-    border: 2px dashed #41B3A2;
+    /* border: 2px dashed #41B3A2; */
 }
 
 h2 {
-    border-bottom: 5px solid #41B3A2;
+    border-bottom: 5px solid #6393f8;
     padding-bottom: 10px;
     color: black;
 }
